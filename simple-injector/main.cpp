@@ -1,9 +1,9 @@
 ﻿#include <iostream>
 #include <windows.h>
-#include <psapi.h >
+#include <psapi.h>
 
-#define DLL_NAME L"auto_medic.dll"
-#define PROC_NAME L"hl2.exe"
+#define DLL_NAME L"YOUR_DLL.dll"
+#define PROC_NAME L"YOUR_PROCESS.exe"
 
 int main()
 {
